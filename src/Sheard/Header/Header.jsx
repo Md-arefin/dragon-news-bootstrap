@@ -9,7 +9,9 @@ const Header = () => {
     return (
         <Container className='my-5'>
             <div className="text-center">
+                
                 <img src={logo} alt="" />
+
                 <p className='text-secondary py-2'>
                     <small>
                         Journalism without Fear or Favour
